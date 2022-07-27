@@ -10,7 +10,7 @@ A landing page for a interior design company made using pure HTML and CSS
 ## Time Taken for Completion
 - 4 hours
 
-<!-- ### Checkout the Project here : [softwareserviceprovider](https://softwareserviceprovider.netlify.app/) -->
+### Checkout the Project here : [interior-decors](https://interior-decors.netlify.app/)
 
 ## Output
 ![output](output.png)
