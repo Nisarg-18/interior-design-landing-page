@@ -6,14 +6,20 @@ A landing page for a interior design company made using pure HTML and CSS
 ## What have I learnt from this project?
 - Flexbox
 - Positioning
+- Media Queries in CSS
 
 ## Time Taken for Completion
-- 4 hours
+- 5 hours
 
 ### Checkout the Project here : [interior-decors](https://interior-decors.netlify.app/)
 
 ## Output
+
+## Desktop View
 ![output](output.png)
+
+## Mobile View
+![mobile](mobile.png)
 
 Made with ❤️ by Nisarg Shah
 
